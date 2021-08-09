@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rogério Cardoso
+## <h3 align="center"><b>Olá! Eu sou o Rogério Cardoso</b></h3>
 <div>
   <a href="https://github.com/RogerioAnalyst">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RogerioAnalyst&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,3 +27,9 @@
 </div>
 	
 ![Snake animation](https://github.com/RogerioAnalyst/RogerioAnalyst/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+ Quantidade de visitas no meu perfil desde: <b>09/08/2021<b><br></p>
+<p align="center"> 
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/RogerioAnalyst/count.svg" /></p>
+<p align="center">
