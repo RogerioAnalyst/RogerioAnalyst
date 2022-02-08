@@ -23,7 +23,7 @@
 	
 </div>
 	
-![Snake animation](https://github.com/RogerioAnalyst/RogerioAnalyst/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
  Quantidade de visitas no meu perfil desde: <b>09/08/2021<b><br></p>
 <p align="center"> 
