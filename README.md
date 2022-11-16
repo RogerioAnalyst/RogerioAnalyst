@@ -22,11 +22,3 @@
   <a href="https://www.linkedin.com/in/rogerio-cardoso-filho-2b412b167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 	
 </div>
-	
-
-<p align="center">
- Quantidade de visitas no meu perfil desde: <b>09/08/2021<b><br></p>
-<p align="center"> 
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/RogerioAnalyst/count.svg" /></p>
-<p align="center">
